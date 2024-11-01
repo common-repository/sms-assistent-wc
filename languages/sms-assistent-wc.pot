@@ -1,0 +1,171 @@
+#: Readme.txt
+msgid "SMS-assistent for WooCommerce"
+msgstr ""
+
+#: Readme.txt
+msgid "SMS-assistent BY SMS Integration for WooCommerce. Send message after customer register or change order status"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Configuring SMS sends"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "SMS-Assistent"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Module settings"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Settings"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Settings saved"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "New order status"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "New customer"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Before importing users, you must disable sending to avoid mass notifications"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "General settings"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Activate"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Username"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Password"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "or Token"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Default Sender"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Base URL for API"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Global Setting for activate module"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Password for API. Generated in your personal account"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "If omitted, the default server address is used"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer notification"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Template of SMS message"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Manager notification"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Phone numbers"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Activates sending a message to the customer"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Available tags"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Store Name"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Store URL"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Order number"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Date created"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Payment method"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Payment code"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer Email"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer Phone Number"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer Firstname"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer Lastname"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Order total"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Ordered product identifiers, separated by comma"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Ordered product names, separated by comma"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Ordered product names and prices, separated by comma"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Activates sending a message to the managers"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Phone numbers separated by ;"
+msgstr ""
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer identifier"
+msgstr ""

@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sms-assistent-wc\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: AnarchyAVK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: Anarchy <info@koshelev.ml>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: Readme.txt
+msgid "SMS-assistent for WooCommerce"
+msgstr "SMS-ассистент для WooCommerce"
+
+#: Readme.txt
+msgid "SMS-assistent BY SMS Integration for WooCommerce. Send message after customer register or change order status"
+msgstr "Интеграционный модуль для WooCommerce, SMS-ассистент Беларусь. Отправка уведомлений после регистрации пользователя или изменении статуса заказа"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Configuring SMS sends"
+msgstr "Настройка SMS рассылок"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "SMS-Assistent"
+msgstr "SMS-Ассистент"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Module settings"
+msgstr "Настройки модуля"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "New order status"
+msgstr "Новый статус заказа"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "New customer"
+msgstr "Новый пользователь"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Before importing users, you must disable sending to avoid mass notifications"
+msgstr "Перед импортом пользователей необходимо выключить отправку, чтобы избежать массовой рассылки уведомлений"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "General settings"
+msgstr "Основные настройки"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Activate"
+msgstr "Активен"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Password"
+msgstr "Пароль"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "or Token"
+msgstr "или Токен"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Default Sender"
+msgstr "Отправитель по-умолчанию"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Base URL for API"
+msgstr "Адрес сервера АПИ"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Global Setting for activate module"
+msgstr "Глобальная настройка, активирующая модуль"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Password for API. Generated in your personal account"
+msgstr "Пароль для доступа к АПИ. Генерируется в личном кабинете"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "If omitted, the default server address is used"
+msgstr "Если не указан, то используется адрес сервера по-умолчанию"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer notification"
+msgstr "Уведомление пользователю"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Template of SMS message"
+msgstr "Шаблон SMS сообщения"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Manager notification"
+msgstr "Уведомление менеджерам"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Phone numbers"
+msgstr "Номера телефонов"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Activates sending a message to the customer"
+msgstr "Активирует отправку сообщения пользователю"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Available tags"
+msgstr "Доступные тэги"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Store Name"
+msgstr "Название магазина"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Store URL"
+msgstr "URL магазина"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Order number"
+msgstr "Номер заказа"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Date created"
+msgstr "Время создания"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Payment method"
+msgstr "Способ оплаты"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Payment code"
+msgstr "Код оплаты"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer Email"
+msgstr "Email покупателя"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer Phone Number"
+msgstr "Телефон покупателя"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer Firstname"
+msgstr "Имя покупателя"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer Lastname"
+msgstr "Фамилия покупателя"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Order total"
+msgstr "Итого по заказу"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Ordered product identifiers, separated by comma"
+msgstr "Идентификаторы товаров, перечисленные через запятую"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Ordered product names, separated by comma"
+msgstr "Названия товаров, перечисленные через запятую"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Ordered product names and prices, separated by comma"
+msgstr "Название и цена товаров, перечисленные через запятую"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Activates sending a message to the managers"
+msgstr "Активирует отправку сообщения менеджерам"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Phone numbers separated by ;"
+msgstr "Номера телефонов перечисляются через ;"
+
+#: admin/class-sms-assistent-wc-settings.php
+msgid "Customer identifier"
+msgstr "Идентификатор пользователя"
